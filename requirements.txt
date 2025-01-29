@@ -1,0 +1,9 @@
+transformers
+deepspeed
+peft
+torch==2.4.0
+qwen_vl_utils==0.0.8
+pillow
+wandb
+trl
+flash-attn
